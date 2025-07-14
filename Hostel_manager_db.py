@@ -14,7 +14,7 @@ def get_conn():
     return psycopg2.connect(
         dbname="hostel_managment",
         user="postgres",
-        password="NISHIL",
+        password="XXXXXX",
         host="localhost",
         port="5432"
     )
